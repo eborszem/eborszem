@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **eborszem/eborszem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Evan. I have some projects on here. My favorite is [this ReactJS guitar diagram builder](https://github.com/eborszem/Guitar-Diagram-Builder) since it's a tool people actually use day to day. Another is [my Spring Boot / MySQL guitar sheet music reader] which I made to improve at Spring Boot while also making something I thought was interesting. 
