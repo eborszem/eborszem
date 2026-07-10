@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Evan. I have some projects on here. My favorite is [this ReactJS guitar diagram builder](https://github.com/eborszem/Guitar-Diagram-Builder) since it's a tool people actually use day to day. Another is [my Spring Boot / MySQL guitar sheet music reader] which I made to improve at Spring Boot while also making something I thought was interesting. 
+I'm Evan. I have some projects on here. My favorite is [this ReactJS guitar diagram builder](https://github.com/eborszem/Guitar-Diagram-Builder) since it's a tool people actually use day to day. Another is [my Spring Boot / MySQL guitar sheet music reader](https://github.com/eborszem/Guitar-Tablature-Reader) which I made to improve at Spring Boot while also making something I thought was interesting. 
